@@ -7,3 +7,12 @@ C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova
 C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var2\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
 C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var2\Library\obj\Debug\netstandard2.0\Library.dll
 C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var2\Library\obj\Debug\netstandard2.0\Library.pdb
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Library\bin\Debug\netstandard2.0\Library.deps.json
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Library\bin\Debug\netstandard2.0\Library.dll
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Library\bin\Debug\netstandard2.0\Library.pdb
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Library\obj\Debug\netstandard2.0\Library.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Library\obj\Debug\netstandard2.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Library\obj\Debug\netstandard2.0\Library.dll
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Library\obj\Debug\netstandard2.0\Library.pdb

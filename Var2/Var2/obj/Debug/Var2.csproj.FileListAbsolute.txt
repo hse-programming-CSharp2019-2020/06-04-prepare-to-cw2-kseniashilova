@@ -8,3 +8,13 @@ C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova
 C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var2\Var2\obj\Debug\Var2.csproj.CopyComplete
 C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var2\Var2\obj\Debug\Var2.exe
 C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var2\Var2\obj\Debug\Var2.pdb
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Var2\bin\Debug\Var2.exe.config
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Var2\bin\Debug\Var2.exe
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Var2\bin\Debug\Var2.pdb
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Var2\bin\Debug\Library.dll
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Var2\bin\Debug\Library.pdb
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Var2\obj\Debug\Var2.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Var2\obj\Debug\Var2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Var2\obj\Debug\Var2.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Var2\obj\Debug\Var2.exe
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Var2\obj\Debug\Var2.pdb

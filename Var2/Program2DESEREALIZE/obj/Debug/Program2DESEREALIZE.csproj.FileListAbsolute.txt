@@ -8,3 +8,13 @@ C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova
 C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var2\Program2DESEREALIZE\obj\Debug\Program2DESEREALIZE.csproj.CopyComplete
 C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var2\Program2DESEREALIZE\obj\Debug\Program2DESEREALIZE.exe
 C:\Users\Пользователь\source\repos\06-04-prepare-to-cw-kseniashilova\Var2\Program2DESEREALIZE\obj\Debug\Program2DESEREALIZE.pdb
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Program2DESEREALIZE\bin\Debug\Program2DESEREALIZE.exe.config
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Program2DESEREALIZE\bin\Debug\Program2DESEREALIZE.exe
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Program2DESEREALIZE\bin\Debug\Program2DESEREALIZE.pdb
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Program2DESEREALIZE\bin\Debug\Library.dll
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Program2DESEREALIZE\bin\Debug\Library.pdb
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Program2DESEREALIZE\obj\Debug\Program2DESEREALIZE.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Program2DESEREALIZE\obj\Debug\Program2DESEREALIZE.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Program2DESEREALIZE\obj\Debug\Program2DESEREALIZE.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Program2DESEREALIZE\obj\Debug\Program2DESEREALIZE.exe
+C:\Users\Пользователь\source\repos\06-04-prepare-to-cw2-kseniashilova\Var2\Program2DESEREALIZE\obj\Debug\Program2DESEREALIZE.pdb

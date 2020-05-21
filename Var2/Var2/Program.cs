@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using Library;
 using System.Xml.Serialization;
-
+using System.Runtime.CompilerServices;
 
 namespace Var2
 {
@@ -35,11 +35,27 @@ namespace Var2
         /// </summary>
         public static bool CheckFile(string path)
         {
-            string[] arr =
-                File.ReadAllLines(path); //считываем все строки
-            foreach (string s in arr)
-                if (!CheckString(s)) return false;
-            return true;
+            try
+            {
+                string[] arr =
+                    File.ReadAllLines(path); //считываем все строки
+                foreach (string s in arr)
+                    if (!CheckString(s)) return false;
+                return true;
+            }
+            catch (IOException) //если файл вдруг был как-то изменен
+            {
+                return false;
+            }
+            catch (System.Security.SecurityException)
+            {
+                return false;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+
         }
 
         /// <summary>
@@ -120,12 +136,20 @@ namespace Var2
         /// <param name="path">выходной файл</param>
         public static void SerializeStreets(Street[] streets, string path)
         {
-            using(FileStream fs = new FileStream(path, FileMode.Create))
+            try
             {
-                XmlSerializer xmlSerializer = 
-                    new XmlSerializer(typeof(Street[]),
-                    new Type[] { typeof(Street) });
-                xmlSerializer.Serialize(fs, streets);
+                using (FileStream fs = new FileStream(path, FileMode.Create))
+                {
+                    XmlSerializer xmlSerializer =
+                        new XmlSerializer(typeof(Street[]),
+                        new Type[] { typeof(Street) });
+                    xmlSerializer.Serialize(fs, streets);
+                }
+            }
+            catch (InvalidOperationException e)
+            {
+                Console.WriteLine(e.Message);
+                Console.WriteLine("Сериализация не удалась.");
             }
             Console.WriteLine("Успешно сериализованно.");
         }
